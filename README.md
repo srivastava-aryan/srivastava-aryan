@@ -27,3 +27,45 @@ Web Developer and Designer
 <a href="http://www.github.com/srivastava-aryan"><img src="https://github-readme-stats.vercel.app/api?username=srivastava-aryan&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="srivastava-aryan's GitHub stats" /></a>
 
 <a href="https://github.com/srivastava-aryan" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=srivastava-aryan&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+
+### Who am I?
+<pre>
+class DevLife {
+  constructor() {
+    this.name = "Aryan Srivastava";
+    this.currentLocation = "Delhi, India";
+    this.roles = ["Frontend Developer", "Tech Explorer", "Aspiring Aerospace Engineer"];
+    this.status = "Fuelled by curiosity and caffeine ☕";
+  }
+
+  dailyRoutine() {
+    return [
+      "Write code ⌨️",
+      "Fix bugs (or try to 🐞)",
+      "Learn new stuff 📚",
+      "Hit the gym 💪",
+      "Dream big 🚀"
+    ];
+  }
+
+  currentlyWorkingOn() {
+    return "Creating cool projects & improving UI skills 🎨";
+  }
+
+  dreams() {
+    return [
+      "Build engaging user experiences 💡",
+      "Explore space and sky ✈️🚀",
+      "Make creative films and stories 🎬",
+      "Do something meaningful with tech ❤️"
+    ];
+  }
+}
+
+const aryan = new DevLife();
+console.log(`Hey, I'm ${aryan.name} 👋`);
+console.log("Let’s turn ideas into reality, one line of code at a time!");
+
+</pre>
+
+
